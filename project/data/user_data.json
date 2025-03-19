@@ -1,0 +1,78 @@
+{
+    "personal": {
+        "name": "toto",
+        "tagline": "engineer",
+        "email": "toto@example.fr",
+        "location": "FRANCE",
+        "linkedin": "toto"
+    },
+    "trainings": [
+        {
+            "title": "computer science degree",
+            "date": "2010 - 2015",
+            "school": "school",
+            "location": "Paris"
+        },
+        {
+            "title": "backery degree",
+            "date": "2009",
+            "school": "Backery school",
+            "location": "Paris"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "level": "C2"
+        },
+        {
+            "language": "Chinese",
+            "level": "B1"
+        }
+    ],
+    "hobbies": [
+        "Reading",
+        "Painting",
+        "Yoga",
+        "Cooking",
+        "Photography"
+    ],
+    "skills": [
+        "Talking",
+        "Reading",
+        "Chatting",
+        "Walking"
+    ],
+    "experience": [
+        {
+            "title": "My last XP",
+            "company": "My last company",
+            "date": "2020 - Today",
+            "location": "Paris",
+            "description": [
+                "experience that I want to modify",
+                "placeholder"
+            ],
+            "tags": [
+                "C",
+                "C++",
+                "C#"
+            ]
+        },
+        {
+            "title": "Internship",
+            "company": "Internship company",
+            "date": "2019",
+            "location": "Paris",
+            "description": [
+                "internship xp that I want to modify",
+                "placeholder"
+            ],
+            "tags": [
+                "C",
+                "C++",
+                "C#"
+            ]
+        }
+    ]
+}

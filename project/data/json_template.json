@@ -1,0 +1,21 @@
+{
+    "skills": [
+        "skill1",
+        "skill2",
+        "etc.."
+    ],
+    "experiences": [
+        {
+            "title": "relevant title experience",
+            "description": [
+                "Bullet point of a description of what is relevant",
+                "etc..."
+            ],
+            "tags": [
+                "tech_stack1",
+                "tech_stack2",
+                "etc..."
+            ]
+        }
+    ]
+}
